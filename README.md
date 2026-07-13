@@ -48,6 +48,9 @@ See `docs/security.md` and `docs/evals.md`.
 
 [MiseBuy Prep](https://github.com/luizvb/misebuy-prep) is the free companion tool. It cleans one supplier file locally. MiseBuy remains the product that compares multiple suppliers and creates the buying decision.
 
+- Product: https://misebuy.netolabs.dev
+- Free tool: https://misebuy-prep.netolabs.dev
+
 ## License
 
 MIT

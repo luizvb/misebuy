@@ -171,7 +171,7 @@ export default function App() {
         <section className="faq"><h2>Before you compare</h2><details><summary>Does MiseBuy guarantee the lowest market price?</summary><p>No. It compares the supplier lists you provide and shows the pack math. Availability, quality, terms, and substitutions still require operator judgment.</p></details><details><summary>Does guest mode send supplier pricing to a server?</summary><p>No. This preview runs the comparison locally in the browser and stores only anonymous event names in the current tab.</p></details><details><summary>Where is the AI?</summary><p>The production design supports a schema-bound matching provider. This public preview uses the deterministic local provider until a live model, rate limit, and cost gate are configured.</p></details></section>
       </main>
 
-      <footer><a className="brand" href="#top"><Mark /><span>MiseBuy</span></a><p>Compare the order before you place it.</p><a href="https://github.com/luizvb/misebuy">Source</a></footer>
+      <footer><a className="brand" href="#top"><Mark /><span>MiseBuy</span></a><p>Compare the order before you place it.</p><a href="https://misebuy-prep.netolabs.dev">Free Prep tool</a><a href="https://github.com/luizvb/misebuy">Source</a></footer>
     </div>
   );
 }

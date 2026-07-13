@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">MiseBuy mark</title>
+  <rect width="64" height="64" rx="12" fill="#20211e"/>
+  <path d="M11 14h14v29l7 7 7-7V14h14v34L32 59 11 48z" fill="#f3f1ea"/>
+  <path d="M11 14h14v29l7 7V29L18 22v20l7 4V14z" fill="#d45138"/>
+</svg>
